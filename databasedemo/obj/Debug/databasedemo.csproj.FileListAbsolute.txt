@@ -1,0 +1,8 @@
+C:\Users\Sujal\source\repos\databasedemo\databasedemo\bin\Debug\databasedemo.exe.config
+C:\Users\Sujal\source\repos\databasedemo\databasedemo\bin\Debug\databasedemo.exe
+C:\Users\Sujal\source\repos\databasedemo\databasedemo\bin\Debug\databasedemo.pdb
+C:\Users\Sujal\source\repos\databasedemo\databasedemo\obj\Debug\databasedemo.csproj.AssemblyReference.cache
+C:\Users\Sujal\source\repos\databasedemo\databasedemo\obj\Debug\databasedemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sujal\source\repos\databasedemo\databasedemo\obj\Debug\databasedemo.csproj.CoreCompileInputs.cache
+C:\Users\Sujal\source\repos\databasedemo\databasedemo\obj\Debug\databasedemo.exe
+C:\Users\Sujal\source\repos\databasedemo\databasedemo\obj\Debug\databasedemo.pdb
